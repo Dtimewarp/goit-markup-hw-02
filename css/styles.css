@@ -98,6 +98,7 @@ body {
   line-height: 1.5;
   letter-spacing: 0.32px;
   list-style: none;
+  color: var(--cloud);
 }
 
 .filter-main-button {
