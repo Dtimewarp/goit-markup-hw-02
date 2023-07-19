@@ -10,6 +10,8 @@
 body {
   font-family: "Roboto", sans-serif;
   color: var(--slate);
+  color: #434455;
+  background-color: #ffffff;
 }
 
 .logo {
@@ -38,6 +40,12 @@ body {
   text-decoration: none;
 }
 
+.link:hover,
+.link:focus {
+  text-decoration: none;
+  color: #404bbf;
+}
+
 .list {
   color: var(--navyblue, #2e2f42);
   font-family: "Roboto", sans-serif;
@@ -46,6 +54,7 @@ body {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.32px;
+  list-style: none;
 }
 
 .address-list {
