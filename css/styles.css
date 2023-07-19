@@ -76,3 +76,14 @@ body {
   line-height: 1.5;
   letter-spacing: 0.32px;
 }
+
+.footer-studio-color {
+  color: var(--cloud, #f4f4fd);
+  font-family: Raleway;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 1.17;
+  letter-spacing: 0.54px;
+  text-transform: uppercase;
+}
