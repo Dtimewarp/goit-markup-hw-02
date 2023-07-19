@@ -106,7 +106,7 @@ body {
   cursor: pointer;
 }
 
-.card {
+.card .team-name {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 20px;
@@ -152,7 +152,7 @@ body {
   cursor: pointer;
 }
 
-.second-section-title {
+.second-section-title .team-title {
   font-size: 36px;
   font-style: normal;
   font-weight: 700;
@@ -161,4 +161,12 @@ body {
   letter-spacing: 0.72px;
   text-transform: capitalize;
   color: var(--navyblue, #2e2f42);
+}
+
+.fourth-section-background {
+  background-color: #f4f4fd;
+}
+
+.container-background {
+  background-color: #ffffff;
 }
