@@ -122,3 +122,32 @@ body {
   letter-spacing: 0.32px;
   color: var(--slate, #434455);
 }
+
+.first-section-background {
+  background-color: var(--navyblue, #2e2f42);
+}
+
+.first-section-text {
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 1.07;
+  letter-spacing: 1.12px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.order-service-btn {
+  background-color: #4d5ae5;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.64px;
+  color: #ffffff;
+}
+
+.order-service-btn:hover,
+.order-service-btn:focus {
+  background-color: #404bbf;
+  cursor: pointer;
+}
