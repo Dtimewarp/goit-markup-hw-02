@@ -106,7 +106,7 @@ body {
   cursor: pointer;
 }
 
-.card .team-name {
+.card {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 20px;
@@ -152,7 +152,7 @@ body {
   cursor: pointer;
 }
 
-.second-section-title .team-title {
+.second-section-title {
   font-size: 36px;
   font-style: normal;
   font-weight: 700;
