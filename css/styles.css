@@ -1,0 +1,35 @@
+:root {
+    --slate: #434455;
+    --white: #ffffff;
+    --navyblue:#2E2F42;
+    --iris:#4D5AE5;
+    --ocean:#404BBF;
+    --cloud:#F4F4FD;
+}
+    
+body{
+    font-family:'Roboto', sans-serif;
+    color: var(--slate);
+}
+
+.logo{
+    color: var(--iris);
+    font-family: Raleway;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 1.166;
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
+}
+
+.studio-color{
+color: var(--navyblue, #2E2F42);
+font-family: Raleway;
+font-size: 18px;
+font-style: normal;
+font-weight: 800;
+line-height: 1.166;
+letter-spacing: 0.54px;
+text-transform: uppercase;
+}
