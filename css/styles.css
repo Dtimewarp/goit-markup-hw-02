@@ -14,22 +14,35 @@ body{
 
 .logo{
     color: var(--iris);
-    font-family: Raleway;
+    font-family: 'Raleway', sans-serif;
     font-size: 18px;
     font-style: normal;
     font-weight: 800;
-    line-height: 1.166;
+    line-height: 1.17;
     letter-spacing: 0.54px;
     text-transform: uppercase;
 }
 
 .studio-color{
 color: var(--navyblue, #2E2F42);
-font-family: Raleway;
+font-family: 'Raleway', sans-serif;
 font-size: 18px;
 font-style: normal;
 font-weight: 800;
-line-height: 1.166;
+line-height: 1.17;
 letter-spacing: 0.54px;
 text-transform: uppercase;
+}
+
+.link{
+    text-decoration: none
+}
+
+.list{
+font-family:'Roboto', sans-serif;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: 1.5;
+letter-spacing: 0.32px;
 }
