@@ -36,9 +36,11 @@ body {
 
 .link {
   text-decoration: none;
+  color: var(--navyblue, #2e2f42);
 }
 
 .list {
+  color: var(--navyblue, #2e2f42);
   font-family: "Roboto", sans-serif;
   font-size: 16px;
   font-style: normal;
